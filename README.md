@@ -1,0 +1,4 @@
+# Optimización de redes neuronales con algoritmos genéticos
+Este repositorio es un proyecto basado en este articulo de Amin Sedaghat en [Medium](https://medium.com/@amin32846/dna-inspired-representations-for-multi-dimensional-architectures-b1e83d89b642), donde describe como podria ser utilizado un algoritmo genético para optimizar redes neuronales.
+
+En este caso es un modelo simplificado basado en frames, y tuplas que representan las capas ocultas de la red y sus funciones de activación, todas las especificaciones y pruebas presentadas se encuentran en el articulo subido al mismo repositorio [Articulo](https://github.com/Michael-Jimenez-C/Redes-neuronales-basadas-en-ADN/blob/main/Optimizaci%C3%B3n%20de%20Redes%20Neuronales%20mediante%20Computaci%C3%B3n%20ADN.pdf), donde se ve el diseño de esta prueba de concepto.
